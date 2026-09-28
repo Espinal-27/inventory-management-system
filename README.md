@@ -124,3 +124,4 @@ This project demonstrates practical knowledge of:
 **Andrés Espinal**
 
 GitHub: https://github.com/Espinal-27
+Portfolio project developed as part of my software development learning journey.
