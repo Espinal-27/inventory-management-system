@@ -1,0 +1,17 @@
+# SQLite database
+inventory.db
+*.db-journal
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
